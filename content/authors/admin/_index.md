@@ -74,8 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mustafa is a PhD candidate in Accounting at Tilburg University School of Economics and Management.  He holds Research Master in Business (Accounting) degree from Tilburg University and Master of Science in Business (Finance) degree from Bilkent University.  He is interested in empirical financial accounting research, particularly in the fields of corporate disclosure and innovation. He specifically examines whether firms disclose their innovative qualities through various mediums and whether these disclosures are well received by capital markets. He also applies textual analysis techniques to extract information from corporate disclosures.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
