@@ -1,7 +1,7 @@
 ---
 title: Mustafa Ahçı
 role: PhD Candidate in Accounting
-avatar_filename: avatar.jpg
+avatar_filename: ""
 bio: My research interests include corporate disclosures, corporate innovation.
 interests:
   - Corporate Disclosures
