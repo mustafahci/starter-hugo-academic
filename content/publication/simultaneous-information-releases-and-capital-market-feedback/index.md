@@ -34,7 +34,7 @@ url_source: ""
 url_video: ""
 title: "Simultaneous Information Releases and Capital Market Feedback "
 doi: ""
-featured: true
+featured: false
 tags: []
 projects: []
 image:
