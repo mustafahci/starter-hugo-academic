@@ -16,7 +16,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: ''
-    icon: fa-python
+    icon: python
     icon_pack: fab
     name: Python
   - description: ''
@@ -24,7 +24,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: ''
-    icon: fa-message-text
+    icon: message-text
     icon_pack: fas
     name: NLP
 # Uncomment to use emoji icons.
