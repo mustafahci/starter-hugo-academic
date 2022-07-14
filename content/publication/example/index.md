@@ -25,9 +25,7 @@ author_notes:
   - University of Bocconi
   - Tilburg University
 publication: "*SSRN Working Paper*"
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: "*SSRN*"
