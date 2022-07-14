@@ -24,13 +24,9 @@ publication_types:
   - "3"
 authors:
   - admin
-  - Tim Martens
-  - Christoph J. Sextroh
 author_notes:
   - Tilburg University
-  - University of Bocconi
-  - Tilburg University
-publication: "*Working Paper*"
+publication: "*Job Market Paper*"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -53,7 +49,7 @@ url_poster: ""
 url_code: ""
 ---
 {{% callout note %}}
-The pdf of the paper is available upon request from the author.
+The pdf of the paper is available upon \[\*\*request\*\*](mailto:m.ahci@tilburguniversity.edu) from the author.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
