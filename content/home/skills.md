@@ -20,11 +20,11 @@ feature:
     icon_pack: fab
     name: Python
   - description: ''
-    icon: chart-line
+    icon: chart-candlestick
     icon_pack: fas
     name: Statistics
   - description: ''
-    icon: message-text
+    icon: text
     icon_pack: fas
     name: NLP
 # Uncomment to use emoji icons.
