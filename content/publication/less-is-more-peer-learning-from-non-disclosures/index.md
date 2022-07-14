@@ -50,7 +50,5 @@ url_code: ""
 ---
 
 {{% callout note %}}
-The pdf of the paper is available upon the request from the author by clicking mail icon below.
+The pdf of the paper is available upon request from the author by clicking mail icon below.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
