@@ -50,5 +50,5 @@ url_code: ""
 ---
 
 {{% callout note %}}
-The pdf of the paper is available upon request from the author by clicking mail icon below.
+The pdf of the paper is available upon request from the author by clicking the mail icon below.
 {{% /callout %}}
