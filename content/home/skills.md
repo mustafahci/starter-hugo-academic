@@ -20,12 +20,12 @@ feature:
     icon_pack: fab
     name: Python
   - description: ''
-    icon: chart-candlestick
-    icon_pack: fas
+    icon: chart-column-solid
+    icon_pack: custom
     name: Statistics
   - description: ''
-    icon: text
-    icon_pack: fas
+    icon: file-lines-solid
+    icon_pack: custom
     name: NLP
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
