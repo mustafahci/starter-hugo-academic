@@ -24,8 +24,8 @@ author_notes:
   - Tilburg University
   - University of Bocconi
   - Tilburg University
-publication: "[**SSRN Working
-  Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)"
+publication: "[**SSRN Working Paper
+  (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -38,7 +38,7 @@ featured: true
 tags: []
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: ""
   focal_point: ""
   preview_only: false
 date: 2022-07-14T13:34:29.912Z
