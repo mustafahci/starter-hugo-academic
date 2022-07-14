@@ -24,15 +24,15 @@ author_notes:
   - Tilburg University
   - University of Bocconi
   - Tilburg University
-publication: "*SSRN Working Paper*"
+publication: "[**SSRN Working
+  Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)"
 summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: "*SSRN*"
 url_source: ""
 url_video: ""
-title: Simultaneous Information Releases and Capital Market Feedback
-  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)
+title: "Simultaneous Information Releases and Capital Market Feedback "
 doi: ""
 featured: true
 tags: []
