@@ -8,5 +8,5 @@ google_fonts = "family=Montserrat:ital,wght@0,100;0,200;0,300;1,100;1,200;1,300"
 # Font families
 heading_font = "Montserrat"
 body_font = "Montserrat"
-nav_font = "Montserrat"
-mono_font = "Montserrat"
+nav_font = "Roboto"
+mono_font = "Roboto"
