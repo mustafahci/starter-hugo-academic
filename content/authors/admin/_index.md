@@ -46,7 +46,7 @@ superuser: true
 highlight_name: true
 ---
 
-Mustafa is a PhD candidate in Accounting at Tilburg University School of Economics and Management.  He holds Research Master in Business (Accounting) degree from Tilburg University and Master of Science in Business (Finance) degree from Bilkent University.  He is interested in empirical financial accounting research, particularly in the fields of corporate disclosure and innovation. He specifically examines whether firms disclose their innovative qualities through various mediums and whether these disclosures are well received by capital markets. He also applies textual analysis techniques to extract information from corporate disclosures.  
+I am a PhD candidate in Accounting at Tilburg University School of Economics and Management.  I hold a Research Master in Business (Accounting) degree from Tilburg University and a Master of Science in Business (Finance) degree from Bilkent University. I am interested in empirical financial accounting research, particularly in the fields of corporate disclosure and innovation. I examine whether companies disclose their innovative qualities through various mediums and whether these disclosures are well received by capital markets. I apply textual analysis techniques to extract information from corporate disclosures.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_06132022.pdf" "newtab" >}}resumé{{< /staticref >}}.
