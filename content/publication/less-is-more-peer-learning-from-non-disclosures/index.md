@@ -50,7 +50,7 @@ url_code: ""
 ---
 
 {{% callout note %}}
-The pdf of the paper is available upon {{< staticref "mailto:m.ahci@tilburguniversity.edu" "newtab" >}}request{{< /staticref >}} from the author.
+The pdf of the paper is available upon {{<a href="mailto:m.ahci@tilburguniversity.edu">}}request{{</a>}} from the author.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
