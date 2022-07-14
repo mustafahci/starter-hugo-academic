@@ -32,6 +32,7 @@ publication_short: "*SSRN*"
 url_source: ""
 url_video: ""
 title: Simultaneous Information Releases and Capital Market Feedback
+  (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)
 doi: ""
 featured: true
 tags: []
