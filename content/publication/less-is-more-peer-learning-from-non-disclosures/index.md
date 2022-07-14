@@ -48,8 +48,9 @@ publishDate: 2022-07-14T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+
 {{% callout note %}}
-The pdf of the paper is available upon \[\*\*request\*\*](mailto:m.ahci@tilburguniversity.edu) from the author.
+The pdf of the paper is available upon {{< staticref "mailto:m.ahci@tilburguniversity.edu" "newtab" >}}request{{< /staticref >}} from the author.
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
