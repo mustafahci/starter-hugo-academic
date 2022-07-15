@@ -11,7 +11,7 @@ subtitle: ''
 
 active: true
 content:
-#  page_type: event
+  page_type: publications
   count: 0
   offset: 0
   order: desc
