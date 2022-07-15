@@ -44,12 +44,12 @@ image:
 date: 2022-01-25T13:34:29.912Z
 url_slides: ""
 publishDate: 2022-07-14T00:00:00.000Z
-url_poster: ""
+url_poster: "https://clsbluesky.law.columbia.edu/2022/02/24/how-firms-simultaneous-release-of-information-affects-market-feedback/"
 url_code: ""
 ---
 
 {{% callout note %}}
-The pdf version of the paper can be found in the link above.
+The pdf version of the paper can be found in the SSRN link above.
 {{% /callout %}}
 
 # Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
