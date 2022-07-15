@@ -14,14 +14,7 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-  [[buttons]]
-    id = "email"
-    url = "mailto:m.ahci@tilburguniversity.edu?subject={title}&body={url}"
-    title = "Email"
-    icon_pack = "fas"
-    icon = "envelope"
-    enable = true
-  
+
  # # Email form provider
  # form:
  #   provider: netlify
@@ -31,8 +24,8 @@ content:
 #      # Enable CAPTCHA challenge to reduce spam?
 #      captcha: false
 
-#  # Contact details (edit or remove options as required)
-#  email: test@example.org
+# Contact details (edit or remove options as required)
+  email: m.ahci@tilburguniversity.edu
 #  phone: 888 888 88 88
 #  address:
 #    street: 450 Serra Mall
@@ -49,7 +42,11 @@ content:
 #    - 'Monday 10:00 to 13:00'
 #    - 'Wednesday 09:00 to 10:00'
 #  appointment_url: 'https://calendly.com'
-#  contact_links:
+  contact_links:
+    - icon: envelope
+      icon_pack: fas
+      name: email
+      link: ''
 #    - icon: twitter
 #      icon_pack: fab
 #      name: DM Me
