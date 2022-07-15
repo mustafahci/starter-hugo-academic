@@ -31,7 +31,7 @@ item:
     organization_url: https://www.coursera.org
     title: Introduction to Data Science in Python
     url: ''
-  - certificate_url: https://coursera.org/share/9d73e3dc7v14fa8b82a28d521995f9af8
+  - certificate_url: https://coursera.org/share/9d73e3dc714fa8b82a28d521995f9af8
     date_end: ''
     date_start: '2019-03-25'
     description: ''
