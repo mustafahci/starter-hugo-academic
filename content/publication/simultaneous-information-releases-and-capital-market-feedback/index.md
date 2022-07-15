@@ -32,6 +32,9 @@ url_project: ""
 publication_short: "*SSRN*"
 url_source: ""
 url_video: ""
+links:
+  - name: Media coverage
+    url: "https://clsbluesky.law.columbia.edu/2022/02/24/how-firms-simultaneous-release-of-information-affects-market-feedback/"
 title: "Simultaneous Information Releases and Capital Market Feedback "
 doi: ""
 featured: false
@@ -44,7 +47,7 @@ image:
 date: 2022-01-25T13:34:29.912Z
 url_slides: ""
 publishDate: 2022-07-14T00:00:00.000Z
-url_poster: "https://clsbluesky.law.columbia.edu/2022/02/24/how-firms-simultaneous-release-of-information-affects-market-feedback/"
+url_poster: ""
 url_code: ""
 ---
 
