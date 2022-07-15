@@ -16,7 +16,8 @@ content:
   offset: 0
   order: desc
 design:
-  columns: 2
+  view: 1
+  columns: '2'
 ---
   * Financial Accounting 1
   * Responsible Reporting
