@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Junior/Senior Treasury Associate
     company: Turkish Treasury
-    company_url: ''
-    company_logo: ''
+    company_url: 'https://www.hmb.gov.tr/'
+    company_logo: treasury
     location: Ankara/TURKEY
     date_start: '2009-06-15'
     date_end: '2016-09-01'
