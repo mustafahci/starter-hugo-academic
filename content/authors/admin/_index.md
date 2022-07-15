@@ -33,10 +33,10 @@ education:
     - course: PhD in Accounting
       institution: Tilburg University
       year: 2023 (Expected)
-    - course: Msc in Business Administration (Accounting)
+    - course: Research Master in Accounting
       institution: Tilburg University
       year: 2019
-    - course: Msc in Business Administration (Finance)
+    - course: Msc in Finance
       institution: Bilkent University
       year: 2017
     - course: BSc in Electrical and Electronics Engineering
@@ -47,7 +47,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a PhD candidate in Accounting at Tilburg University School of Economics and Management.  I hold a Research Master in Business (Accounting) degree from Tilburg University and a Master of Science in Business (Finance) degree from Bilkent University. I am interested in empirical financial accounting research, particularly in the fields of corporate disclosure and innovation. I examine whether companies disclose their innovative qualities through various mediums and whether these disclosures are well received by capital markets. I apply textual analysis techniques to extract information from corporate disclosures.  
+I am a PhD candidate in Accounting at Tilburg University School of Economics and Management.  I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am interested in empirical financial accounting research, particularly in the fields of corporate disclosure and innovation. I examine whether companies disclose their innovative qualities through various mediums and whether these disclosures are well received by capital markets. I apply textual analysis techniques to extract information from corporate disclosures.  
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_06132022.pdf" "newtab" >}}resumé{{< /staticref >}}.
