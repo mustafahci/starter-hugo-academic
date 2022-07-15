@@ -15,8 +15,8 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mstfahci
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: custom
     link: https://scholar.google.com/citations?user=PvV-mu0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
