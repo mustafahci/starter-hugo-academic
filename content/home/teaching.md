@@ -11,14 +11,14 @@ subtitle: ''
 
 active: true
 content:
-#  page_type: event
+  page_type: event
   count: 0
   offset: 0
   order: desc
 design:
   columns: 2
 ---
-* Financial Accounting 1
-* Responsible Reporting
-* Supervision of Msc Masterfile (replications)
-* Supervision of Msc Theses
+  * Financial Accounting 1
+  * Responsible Reporting
+  * Supervision of Msc Masterfile (replications)
+  * Supervision of Msc Theses
