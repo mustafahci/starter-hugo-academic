@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Mustafa Ahçı. Powered by the [*Academic Resume theme*](https://github.com/wowchemy/starter-hugo-academic) for {Hugo}'
+    notice: '© {year} Mustafa Ahçı. Powered by the [*Academic Resume Theme*](https://github.com/wowchemy/starter-hugo-academic) for [Hugo](gohugo.io)'
     license:
       enable: true
       allow_derivatives: false
