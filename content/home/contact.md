@@ -14,7 +14,14 @@ subtitle:
 content:
   # Automatically link email and phone or display as text?
   autolink: true
-
+  [[buttons]]
+    id = "email"
+    url = "mailto:m.ahci@tilburguniversity.edu?subject={title}&body={url}"
+    title = "Email"
+    icon_pack = "fas"
+    icon = "envelope"
+    enable = true
+  
  # # Email form provider
  # form:
  #   provider: netlify
@@ -52,6 +59,8 @@ content:
 #      name: Zoom Me
 #      link: 'https://zoom.com'
 #
+
+
 design:
   columns: '2'
 ---
