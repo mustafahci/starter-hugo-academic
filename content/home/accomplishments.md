@@ -2,7 +2,7 @@
 # An instance of the Accomplishments widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
-active: false
+active: true
 # This file represents a page section.
 headless: true
 
@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://coursera.org/share/0cec83678783d24451ca77ab496834ba
+    date_end: '2019-02-03'
+    date_start: ''
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Introduction to Data Science in Python
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://coursera.org/share/9d73e3dc7v14fa8b82a28d521995f9af8
+    date_end: '2019-03-25'
+    date_start: ''
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Applied Machine Learning in Python
     url: ''
+  - certificate_url: https://coursera.org/share/dae208b3fb2a0e8b7d76761b3a9ec270
+    date_end: '2019-04-21'
+    date_start: ''
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Applied Text Mining in Python
+    url: ''
+
 
 design:
   columns: '2'
