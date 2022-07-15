@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: teaching
+# widget_id: teaching
 headless: true
 weight: 60
 title: Teaching & Supervision
