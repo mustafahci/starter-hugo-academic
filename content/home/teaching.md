@@ -16,7 +16,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: 2
   columns: 2
 ---
 * Financial Accounting 1
