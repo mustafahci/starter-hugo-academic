@@ -48,11 +48,11 @@ authors:
 author_notes:
   - Tilburg University
   - Tilburg University
-publication: "*Working Paper*"
+publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: "*Working Paper*"
 url_source: ""
 url_video: ""
 title: Novelty or Efficiency? Which Matters Most for Firm Performance
