@@ -31,7 +31,7 @@ item:
     organization_url: http://limperginstituut.nl/
     title: Capital Markets Research by Peter Easton
     url: ''
-    wieght:10
+    wieght: 10
   - certificate_url: ''
     date_end: ''
     date_start: '2019-04-03'
