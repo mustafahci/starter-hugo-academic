@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Certificates'
+title: 'Extracurricular Training & Certificates'
 subtitle:
 
 # Date format
@@ -23,6 +23,30 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2018-12-03'
+    description: 'Capital Markets Research'
+    organization: Limperg Institute
+    organization_url: http://limperginstituut.nl/
+    title: Capital Markets Research by Peter Easton
+    url: ''
+  - certificate_url: ''
+    date_end: ''
+    date_start: '2021-06-17'
+    description: 'Advanced Financial Accounting'
+    organization: Limperg Institute
+    organization_url: http://limperginstituut.nl/
+    title: Advanced Financial Accounting by Shivaram Rajgopal
+    url: ''
+  - certificate_url: https://coursera.org/share/0cec83678783d24451ca77ab496834ba
+    date_end: ''
+    date_start: '2019-02-03'
+    description: ''
+    organization: Coursera
+    organization_url: https://www.coursera.org
+    title: Introduction to Data Science in Python
+    url: ''
   - certificate_url: https://coursera.org/share/0cec83678783d24451ca77ab496834ba
     date_end: ''
     date_start: '2019-02-03'
