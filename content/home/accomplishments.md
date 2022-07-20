@@ -26,27 +26,27 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2018-12-03'
-    description: ''
+    description: 'by Peter Easton'
     organization: Limperg Institute
     organization_url: http://limperginstituut.nl/
-    title: Capital Markets Research by Peter Easton
+    title: Capital Markets Research
     url: ''
     wieght: 10
   - certificate_url: ''
     date_end: ''
     date_start: '2019-04-03'
-    description: ''
+    description: 'by Ties de Kok'
     organization: Limperg Institute
     organization_url: http://limperginstituut.nl/
-    title: Python by Ties de Kok
+    title: Python 
     url: ''
   - certificate_url: ''
     date_end: ''
     date_start: '2021-06-17'
-    description: ''
+    description: 'by Shivaram Rajgopal'
     organization: Limperg Institute
     organization_url: http://limperginstituut.nl/
-    title: Advanced Financial Accounting by Shivaram Rajgopal
+    title: Advanced Financial Accounting 
     url: ''
   - certificate_url: https://coursera.org/share/0cec83678783d24451ca77ab496834ba
     date_end: ''
