@@ -26,11 +26,11 @@ authors:
   - admin
 author_notes:
   - Tilburg University
-publication: "*Job Market Paper*"
+publication: ""
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: ""
+publication_short: "*Job Market Paper*"
 url_source: ""
 url_video: ""
 title: "Less Is More: Peer Learning from Non-disclosures"
