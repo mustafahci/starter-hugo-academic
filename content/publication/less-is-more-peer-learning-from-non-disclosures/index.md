@@ -22,6 +22,7 @@ slides: ""
 url_pdf: ""
 publication_types:
   - "4"
+weight: 1
 authors:
   - admin
 author_notes:
