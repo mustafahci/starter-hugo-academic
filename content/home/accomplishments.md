@@ -31,7 +31,7 @@ item:
     organization_url: http://limperginstituut.nl/
     title: Capital Markets Research
     url: ''
-    weight: 10
+    weight: 20
   - certificate_url: ''
     date_end: ''
     date_start: '2019-04-03'
@@ -40,6 +40,7 @@ item:
     organization_url: http://limperginstituut.nl/
     title: Python 
     url: ''
+    weight: 30
   - certificate_url: ''
     date_end: ''
     date_start: '2021-06-17'
@@ -48,6 +49,8 @@ item:
     organization_url: http://limperginstituut.nl/
     title: Advanced Financial Accounting 
     url: ''
+    weight: 10
+
   - certificate_url: https://coursera.org/share/0cec83678783d24451ca77ab496834ba
     date_end: ''
     date_start: '2019-02-03'
@@ -56,14 +59,7 @@ item:
     organization_url: https://www.coursera.org
     title: Introduction to Data Science in Python
     url: ''
-  - certificate_url: https://coursera.org/share/0cec83678783d24451ca77ab496834ba
-    date_end: ''
-    date_start: '2019-02-03'
-    description: ''
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Introduction to Data Science in Python
-    url: ''
+    weight: 60
   - certificate_url: https://coursera.org/share/9d73e3dc714fa8b82a28d521995f9af8
     date_end: ''
     date_start: '2019-03-25'
@@ -72,6 +68,7 @@ item:
     organization_url: https://www.coursera.org
     title: Applied Machine Learning in Python
     url: ''
+    weight: 40
   - certificate_url: https://coursera.org/share/dae208b3fb2a0e8b7d76761b3a9ec270
     date_end: ''
     date_start: '2019-04-21'
@@ -80,6 +77,7 @@ item:
     organization_url: https://www.coursera.org
     title: Applied Text Mining in Python
     url: ''
+    weight: 50
 
 
 design:
