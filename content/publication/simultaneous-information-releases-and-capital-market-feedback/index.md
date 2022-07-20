@@ -28,6 +28,7 @@ url_pdf: ""
 # 10 = Patent
 publication_types:
   - "4"
+weight: 2
 authors:
   - admin
   - Tim Martens
