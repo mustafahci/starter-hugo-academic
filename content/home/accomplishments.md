@@ -33,6 +33,14 @@ item:
     url: ''
   - certificate_url: ''
     date_end: ''
+    date_start: '2019-04-03'
+    description: 'Python'
+    organization: Limperg Institute
+    organization_url: http://limperginstituut.nl/
+    title: Python by Ties de Kok
+    url: ''
+  - certificate_url: ''
+    date_end: ''
     date_start: '2021-06-17'
     description: 'Advanced Financial Accounting'
     organization: Limperg Institute
