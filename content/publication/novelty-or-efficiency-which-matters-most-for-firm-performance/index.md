@@ -28,8 +28,20 @@ abstract: "In this study, we examine how corporate innovation and the degree of
   information. "
 slides: ""
 url_pdf: ""
+# publication types:
+# 0 = Uncategorized
+# 1 = Conference paper
+# 2 = Journal article
+# 3 = Preprint 
+# 4 = Working Paper
+# 5 = Work in Progress
+# 6 = Report
+# 7 = Book
+# 8 = Book section
+# 9 = Thesis
+# 10 = Patent
 publication_types:
-  - "3"
+  - "4"
 authors:
   - admin
   - Philip Joos
