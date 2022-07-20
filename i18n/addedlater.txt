@@ -1,0 +1,2 @@
+# en.yaml is added later to introduce different publication packages to default
+# such as: pub_wp: Working Paper and pub_winp: Work in Progress
