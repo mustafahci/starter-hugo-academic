@@ -36,12 +36,11 @@ author_notes:
   - Tilburg University
   - University of Bocconi
   - Tilburg University
-publication: "[**SSRN Working Paper
-  (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)"
+publication: "[**SSRN (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)"
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: "*SSRN*"
+publication_short: "*Working Paper*"
 url_source: ""
 url_video: ""
 links:
