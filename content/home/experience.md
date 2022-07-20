@@ -31,10 +31,10 @@ experience:
     date_end: '2016-09-01'
     description: |2-
         Responsibilities include:
-        * Financial Management of EU pre-accession funds
+        * Financial management of EU pre-accession funds
         * Accreditation of governance systems for EU pre-accession funds 
-        * Project Controls
-        * Verification of Management and Control Systems
+        * Project controls
+        * Assurance of management and control systems
 
 
 design:
