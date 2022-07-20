@@ -21,7 +21,7 @@ abstract: The US Securities and Exchange Commission requires US public firms to
 slides: ""
 url_pdf: ""
 publication_types:
-  - "3"
+  - "4"
 authors:
   - admin
 author_notes:
