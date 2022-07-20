@@ -10,7 +10,7 @@ headless: true
 weight: 70
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Extracurricular Training & Certificates'
+title: 'Extracurricular Courses & Certificates'
 subtitle:
 
 # Date format
@@ -26,7 +26,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2018-12-03'
-    description: 'Capital Markets Research'
+    description: ''
     organization: Limperg Institute
     organization_url: http://limperginstituut.nl/
     title: Capital Markets Research by Peter Easton
@@ -35,7 +35,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2019-04-03'
-    description: 'Python'
+    description: ''
     organization: Limperg Institute
     organization_url: http://limperginstituut.nl/
     title: Python by Ties de Kok
@@ -43,7 +43,7 @@ item:
   - certificate_url: ''
     date_end: ''
     date_start: '2021-06-17'
-    description: 'Advanced Financial Accounting'
+    description: ''
     organization: Limperg Institute
     organization_url: http://limperginstituut.nl/
     title: Advanced Financial Accounting by Shivaram Rajgopal
