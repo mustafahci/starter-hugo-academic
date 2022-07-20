@@ -42,6 +42,7 @@ url_pdf: ""
 # 10 = Patent
 publication_types:
   - "4"
+weight: 3
 authors:
   - admin
   - Philip Joos
