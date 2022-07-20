@@ -71,3 +71,6 @@ publishDate: 2022-07-14T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
+{{% callout note %}}
+The pdf of the paper is available upon request from the author by clicking the mail icon below.
+{{% /callout %}}
