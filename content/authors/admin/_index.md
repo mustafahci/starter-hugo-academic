@@ -54,5 +54,4 @@ I am a PhD candidate in Accounting at Tilburg University School of Economics and
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_06132022.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
 {{< icon name="video" pack="fas" >}} Watch {{< staticref "https://youtu.be/24dbPTcNk-Y" "newtab" >}}the video{{< /staticref >}} for my research.
