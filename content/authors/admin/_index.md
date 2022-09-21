@@ -33,15 +33,13 @@ education:
     - course: Visiting Scholar
       institution: Columbia Business School
       year: Fall 2022
-      icon: school
-      icon_pack: fas
     - course: PhD in Accounting
       institution: Tilburg University
       year: 2023 (Expected)
     - course: Research Master in Accounting
       institution: Tilburg University
       year: 2019
-    - course: Msc in Finance
+    - course: MSc in Finance
       institution: Bilkent University
       year: 2017
     - course: BSc in Electrical and Electronics Engineering
