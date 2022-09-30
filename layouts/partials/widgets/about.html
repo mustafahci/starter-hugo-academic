@@ -108,21 +108,24 @@
         <ul class="ul-edu fa-ul mb-0">
           {{ range .courses }}
           <li>
-            {{ if .course }} <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
+            <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
+            {{ if .course }} 
+            <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
             {{ end }}
-            {{ if .job }}   <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-            <i class="fa-sharp fa-solid fa-school"></i> <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-            <div class="description">  <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>  <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-              <p class="institution">{{ .institution }}</p>  <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-            </div>  <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-            {{ end }}  <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
-
+            <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
+            {{ if .job }}   
+            <i class="fa-sharp fa-solid fa-school"></i> 
+            <div class="description"> 
+              <p class="course">{{ .job }}{{ with .year }}, {{ . }}{{ end }}</p>  
+              <p class="institution">{{ .institution | markdownify }}</p>  
+            </div>  
+            {{ end }}  
+            <!-- THIS PART I ADDED FROM A BLOG TO ADD VISIT COLUMBIA -->
           </li>
           {{ end }}
         </ul>
