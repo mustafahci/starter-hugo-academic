@@ -1,31 +1,5 @@
 ---
-abstract: "In this study, we examine how corporate innovation and the degree of
-  ambidexterity affect current and future firm performance. We develop a novel
-  text-based innovation measure based on 10K reports that is particularly
-  applicable to non-R&D industries. Our text-based innovation measure
-  successfully captures innovative firms operating at the 3-digit SIC level in
-  the retail industry. We find that both novelty and efficiency matter for firm
-  performance, however they affect firm performance in different dimensions and
-  over different periods. We find that innovative firms experience higher and
-  persistent future sales growth, show better market performance and enjoy a
-  higher future profit margin. In addition, we apply textual analysis on firms’
-  10K filings to distinguish firms’ exploration and exploitation activities,
-  i.e., the degree of ambidexterity. Consistent with the organizational theory
-  developed by March (1991), we find that firms’ exploration activities are
-  positively associated with future profit margin, while exploitation activities
-  are positively associated with asset turnover. The balance of these two
-  investments has a positive effect on both current and future return on net
-  operating assets. We validate our text-based measures using firms in the
-  R&D-intensive electronic equipment industry and show that the main results are
-  robust to additions of various control variables. We contribute to the textual
-  analysis literature in accounting by showing the usefulness of 10K reports in
-  assessing a firm’s degree of innovation, as well as to the innovation
-  management literature by providing a large sample-based measure to identify
-  innovative products and services that explains current and future firm
-  performance.  Our study has implications for recent debates by the SEC on the
-  update of Regulation S-K Items and the IASB Management Commentary project to
-  improve the readability of filings and discourage disclosure of non-material
-  information. "
+abstract: "In this study,we examine whether firms disclose their innovative qualities through their textual filings and, if so, whether these disclosures may help understand the intangible capital of a firm that is generally not recognized in financial statements. We develop a novel text-based innovation measure based on 10-K reports, which is particularly appealing for firms operating in non-R&D industries that still offer innovative products and services (e.g., retail industry). We find that the text-based innovation measure successfully captures innovative firms operating in R&D-intense as well as non-R&D-intense industries. We find that novelties introduced in firms’ textual filings help explain future sales growth, market performance, and future net income beyond historical accounting numbers. We find that not only R&D investments or patenting behavior but also SGA expenses related to intangible capital explain the variation in our text-based innovation measure. The study contributes to the accounting literature by showing the usefulness of textual disclosures in assessing a firm’s degree of innovation (intangible capital) beyond accounting numbers. Our study has implications for the critiques around boilerplate disclosures and contributes to the long-standing debate regarding the recognition of intangibles in financial statements. "
 slides: ""
 url_pdf: ""
 # publication types:
