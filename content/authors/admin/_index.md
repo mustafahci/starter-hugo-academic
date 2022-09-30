@@ -29,13 +29,10 @@ organizations:
   - name: Tilburg University
     url: https://www.tilburguniversity.edu/
 education:
-  job:
-    - course: Visiting Scholar
+  courses:
+    - job: Visiting Scholar
       institution: Columbia Business School
       year: 2022 (Fall)
-  
-  courses:
-
     - course: PhD in Accounting
       institution: Tilburg University
       year: 2023 (Expected)
