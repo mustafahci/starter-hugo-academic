@@ -30,7 +30,7 @@ organizations:
     url: https://www.tilburguniversity.edu/
 education:
   courses:
-    - course: Visiting Scholar
+    - certificate: Visiting Scholar
       institution: Columbia Business School
       year: Fall 2022
     - course: PhD in Accounting
