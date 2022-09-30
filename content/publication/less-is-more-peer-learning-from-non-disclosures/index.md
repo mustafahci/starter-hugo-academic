@@ -1,23 +1,5 @@
 ---
-abstract: The US Securities and Exchange Commission requires US public firms to
-  disclose their material agreements while allowing them to redact/omit
-  proprietary information from these contracts due to competitive harm. In this
-  paper, I investigate whether firms can extract valuable information from
-  rivals' redacted disclosures to use in their subsequent investment decisions.
-  Despite well-documented spillover effects of disclosures between peers,
-  relatively little is known about firm response to rivals' non-disclosure or
-  censorship behavior. Consistent with peer learning from redacted disclosures,
-  I find that firms increase their R&D spending and become more similar to
-  redacting peers. I also explore the underlying *mechanism* how redacted
-  disclosures manifest in firm learning. Using the EDGAR server logs, I find
-  that redacted material agreements are downloaded up to 52% more than their
-  unredacted counterparts, indicating greater attention and information demand
-  for redacted disclosures. Using two different quasi-natural experiments, I
-  show that increased *peer attention* to redacted disclosures might be a
-  potential mechanism that explains peer learning. My study contributes to the
-  literature on corporate investment under uncertainty and adds to our
-  understanding regarding the underlying mechanisms of peer learning documented
-  in the literature.
+abstract: The US Securities and Exchange Commission requires US public firms to disclose their material agreements while allowing them to redact/censor parts of these contracts due to proprietary cost concerns. While firms censor contracts to hinder competitor learning, they also reveal to rivals that something valuable is hidden in these contracts. This may result in a stronger motive for rivals to unravel the information concealed in these contracts. In this paper, I investigate whether competitors can extract valuable information from peers’ redacted disclosures that might be useful for their future investment decisions. Using the EDGAR log files, I find that redacted material agreements receive up to 53% more downloads than their unredacted counterparts, indicating greater attention and information demand for censored documents. Consistent with peer learning from redacted disclosures, I also find that firms increase their R&D spending and become more similar to redacting peers. Using two plausibly exogenous shocks, I show that the learning effect attenuates when rival attention is disrupted, suggesting that increased attention to redacted disclosures might be a potential mechanism that explains peer learning. My study contributes to the literature on corporate investment under uncertainty and provides insight into the underlying mechanisms of peer learning documented in the literature.
 slides: ""
 url_pdf: ""
 publication_types:
