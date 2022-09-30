@@ -53,5 +53,5 @@ highlight_name: true
 I am a PhD candidate in Accounting at Tilburg University School of Economics and Management.  I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am interested in empirical financial accounting research, particularly in the fields of corporate disclosure and innovation. I examine whether companies disclose their innovative qualities through various mediums and whether these disclosures are well received by capital markets. I apply textual analysis techniques to extract information from corporate disclosures.  
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_06132022.pdf" "newtab" >}}resumé{{< /staticref >}}.<br>
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_web_20220930.pdf.pdf" "newtab" >}}resumé{{< /staticref >}}.<br>
 {{< icon name="video" pack="fas" >}} Watch {{< staticref "https://youtu.be/24dbPTcNk-Y" "newtab" >}}the video{{< /staticref >}} for my research.
