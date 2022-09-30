@@ -30,9 +30,11 @@ organizations:
     url: https://www.tilburguniversity.edu/
 education:
   courses:
-    - certificate: Visiting Scholar
+    - course: Visiting Scholar
       institution: Columbia Business School
       year: Fall 2022
+      icon: university 
+      icon_pack: fas
     - course: PhD in Accounting
       institution: Tilburg University
       year: 2023 (Expected)
