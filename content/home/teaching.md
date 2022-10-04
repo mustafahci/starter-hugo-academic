@@ -20,6 +20,6 @@ design:
   columns: '2'
 ---
   * Financial Accounting 1
-  * Responsible Reporting
+  * Corporate Sustainability
   * Supervision of Msc Masterfile (replications)
   * Supervision of Msc Theses
