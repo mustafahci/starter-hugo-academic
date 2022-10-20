@@ -50,7 +50,8 @@ superuser: true
 highlight_name: true
 ---
 
-I am a PhD candidate in Accounting at Tilburg University School of Economics and Management. I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am passionate about disclosure research: the content or novel ways of interaction and communication. I particularly do research in empirical financial accounting on the real effects of disclosures, particularly innovation-related disclosures. I currently examine the effects of disclosures on capital markets, firms, and rivals. I am interested in data science and actively use textual analysis techniques to extract and collect information from corporate disclosures or web sources.  
+I am a PhD candidate in Accounting at Tilburg University School of Economics and Management. I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am passionate about disclosure research; particularly on the real effects of disclosures. I currently examine the effects of innovation-related disclosures on capital markets, firms, and rivals. I am interested in data science and actively use textual analysis techniques to extract and collect information from corporate disclosures or web sources.  
+
 Outside work, I enjoy spending time with my family and trying new sports with my kids, such as roller or ice skating, although that may occasionally require going under surgery due to accidents.
 
 <!-- 
