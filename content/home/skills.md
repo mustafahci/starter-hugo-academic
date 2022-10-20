@@ -24,6 +24,10 @@ feature:
     icon_pack: custom
     name: Statistics
   - description: ''
+    icon: data-science
+    icon_pack: custom
+    name: Data Science
+  - description: ''
     icon: file-lines-solid
     icon_pack: custom
     name: NLP
