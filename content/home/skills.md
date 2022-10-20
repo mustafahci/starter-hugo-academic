@@ -27,10 +27,10 @@ feature:
     icon: data-science
     icon_pack: custom
     name: Data Science
-  - description: ''
-    icon: file-lines-solid
-    icon_pack: custom
-    name: NLP
+#  - description: ''
+#    icon: file-lines-solid
+#    icon_pack: custom
+#    name: NLP
 # Uncomment to use emoji icons.
 # - icon: ":smile:"
 #  icon_pack: "emoji"
