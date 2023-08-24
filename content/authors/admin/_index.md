@@ -1,6 +1,6 @@
 ---
 title: Mustafa Ahçı
-role: PhD Candidate in Accounting
+role: Assistant Professor of Accounting
 avatar_filename: avatar.jpg
 bio: My research interests include corporate disclosures, corporate innovation, capital markets.
 interests:
@@ -12,7 +12,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.ahci@tilburguniversity.edu
+    link: mailto:ahci@rsm.nl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mstfahci
@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/mustafa-ahçı-403a9388/
 organizations:
-  - name: Tilburg University
-    url: https://www.tilburguniversity.edu/
+  - name: Rotterdam School of Management
+    url: https://www.rsm.nl/
 education:
   courses:
     - job: Visiting Scholar
@@ -35,7 +35,7 @@ education:
       year: 2022 (Fall)
     - course: PhD in Accounting
       institution: Tilburg University
-      year: 2023 (Expected)
+      year: 2023 
     - course: Research Master in Accounting
       institution: Tilburg University
       year: 2019
@@ -50,9 +50,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am a PhD candidate in Accounting at Tilburg University School of Economics and Management. I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am passionate about disclosure research; particularly on the real effects of disclosures. I currently examine the effects of innovation-related disclosures on capital markets, firms, and rivals. I am interested in data science and actively use textual analysis techniques to extract and collect information from corporate disclosures or web sources.  
-
-I will be joining Rotterdam School of Management of Erasmus University starting from this fall.
+I am an Assistant Professor in Accounting at Rotterdam School of Managemetn at Erasmus University. I am passionate about disclosure research; particularly on the real effects of disclosures. I currently examine the effects of innovation-related disclosures on capital markets, firms, and competitors. I am interested in data science and actively use textual analysis techniques to extract and collect information from corporate disclosures or web sources.  
 
 <!-- 
 I am a PhD candidate in Accounting at Tilburg University School of Economics and Management. I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am interested in empirical financial accounting research, particularly in the fields of corporate disclosures and innovation. I am passionate about disclosure research: the content or new ways of interaction and communication. I currently examine the real effects of disclosures, particularly innovation-related dissclosures, on capital markets, firms and even on rivals. I am interested in data science: I apply textual analysis techniques to extract and collect information from corporate disclosures or web sources.   -->
