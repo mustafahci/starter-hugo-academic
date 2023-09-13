@@ -50,7 +50,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am an Assistant Professor in Accounting at Rotterdam School of Management at Erasmus University. I am passionate about disclosure research; particularly on the real effects of disclosures. I currently examine the effects of innovation-related disclosures on capital markets, firms, and competitors.
+I am an Assistant Professor of Accounting at Rotterdam School of Management of Erasmus University. I am passionate about disclosure research; particularly on the real effects of disclosures. I currently examine the effects of innovation-related disclosures on capital markets, firms, and competitors.
 
 I am interested in data science and actively use textual analysis techniques to extract and collect information from corporate disclosures or web sources.  
 
