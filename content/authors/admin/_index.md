@@ -58,5 +58,5 @@ I am interested in data science and actively use textual analysis techniques to 
 I am a PhD candidate in Accounting at Tilburg University School of Economics and Management. I hold a Research Master in Accounting degree from Tilburg University and a Master of Science in Finance degree from Bilkent University. I am interested in empirical financial accounting research, particularly in the fields of corporate disclosures and innovation. I am passionate about disclosure research: the content or new ways of interaction and communication. I currently examine the real effects of disclosures, particularly innovation-related dissclosures, on capital markets, firms and even on rivals. I am interested in data science: I apply textual analysis techniques to extract and collect information from corporate disclosures or web sources.   -->
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume_web_20220930.pdf" "newtab" >}}resumé{{< /staticref >}}.<br>
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/1. CV_Mustafa Ahci_November2023.pdf" "newtab" >}}CV{{< /staticref >}}.<br>
 {{< icon name="video" pack="fas" >}} Watch {{< staticref "https://youtu.be/24dbPTcNk-Y" "newtab" >}}the video{{< /staticref >}} of my research.
