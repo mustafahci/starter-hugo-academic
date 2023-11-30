@@ -1,7 +1,7 @@
 ---
 title: Mustafa Ahçı
 role: Assistant Professor of Accounting
-avatar_filename: avatar.jpg
+avatar_filename: avatar2.jpg
 bio: My research interests include corporate disclosures, corporate innovation, capital markets.
 interests:
   - Corporate Disclosures
@@ -45,10 +45,7 @@ education:
     - course: MSc in Finance
       institution: Bilkent University
       year: 2017
-<!-- 
-    - course: BSc in Electrical and Electronics Engineering
-      institution: Hacettepe University
-      year: 2007 -->
+
 email: ""
 superuser: true
 highlight_name: true
