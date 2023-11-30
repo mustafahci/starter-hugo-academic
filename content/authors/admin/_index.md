@@ -31,7 +31,7 @@ organizations:
 education:
   courses:
     - job: Assistant Professor of Accounting
-      institutuion: Rotterdam School of Management
+      institution: Rotterdam School of Management
       year: 2023-
     - job: Visiting Scholar
       institution: Columbia Business School
