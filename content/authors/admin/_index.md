@@ -45,9 +45,10 @@ education:
     - course: MSc in Finance
       institution: Bilkent University
       year: 2017
+<!-- 
     - course: BSc in Electrical and Electronics Engineering
       institution: Hacettepe University
-      year: 2007
+      year: 2007 -->
 email: ""
 superuser: true
 highlight_name: true
