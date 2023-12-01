@@ -60,4 +60,6 @@ I am a PhD candidate in Accounting at Tilburg University School of Economics and
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/1. CV_Mustafa Ahci_November2023.pdf" "newtab" >}}CV{{< /staticref >}}.<br>
+<!-- comment out the video link
 {{< icon name="video" pack="fas" >}} Watch {{< staticref "https://youtu.be/24dbPTcNk-Y" "newtab" >}}the video{{< /staticref >}} of my research.
+-->
