@@ -19,7 +19,10 @@ design:
   view: 2
   columns: '2'
 ---
+  * Accounting Skills
   * Financial Accounting 1
   * Corporate Sustainability
+<!--
   * Supervision of Msc Masterfile (replications)
   * Supervision of Msc Theses
+-->
