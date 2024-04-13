@@ -51,7 +51,7 @@ superuser: true
 highlight_name: true
 ---
 
-I am Assistant Professor of Accounting at the Rotterdam School of Management. I obtained his PhD degree from Tilburg University. During my Phd, I had the privilege of visiting Columbia Business School in New York as a visiting scholar. I am passionate about disclosure research; particularly on the real effects of corporate disclosures. My research currently examines the effects of corporate disclosures on capital markets, firms, and competitors.
+I am Assistant Professor of Accounting at the Rotterdam School of Management. I obtained my PhD degree from Tilburg University. During my Phd, I had the privilege of visiting Columbia Business School in New York as a visiting scholar. I am passionate about disclosure research; particularly on the real effects of corporate disclosures. My research currently examines the effects of corporate disclosures on capital markets, firms, and competitors.
 
 I am interested in data science and actively use textual analysis techniques to extract and collect information from corporate disclosures or web sources.  
 
