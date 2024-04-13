@@ -8,7 +8,7 @@ weight: 1
 authors:
   - admin
 author_notes:
-  - Tilburg University
+  - Rotterdam School of Management
 publication: ""
 summary: ""
 url_dataset: ""
@@ -25,9 +25,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2022-07-14T14:05:16.143Z
+date: 2024-04-12T14:05:16.143Z
 url_slides: ""
-publishDate: 2022-07-14T00:00:00.000Z
+publishDate: 2024-04-12T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
