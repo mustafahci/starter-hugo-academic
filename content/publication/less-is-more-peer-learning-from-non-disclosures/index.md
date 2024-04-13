@@ -16,7 +16,7 @@ url_project: ""
 publication_short: "*Job Market Paper*"
 url_source: ""
 url_video: ""
-title: "Less Is More: Peer Learning from Non-disclosures"
+title: "Less Is More: Peer Learning from Nondisclosures"
 doi: ""
 featured: false
 tags: []
