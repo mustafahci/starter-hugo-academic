@@ -1,5 +1,5 @@
 ---
-abstract: "In this study,we examine whether firms disclose their innovative qualities through their textual filings and, if so, whether these disclosures may help understand the intangible capital of a firm that is generally not recognized in financial statements. We develop a novel text-based innovation measure based on 10-K reports, which is particularly appealing for firms operating in non-R&D industries that still offer innovative products and services (e.g., retail industry). We find that the text-based innovation measure successfully captures innovative firms operating in R&D-intense as well as non-R&D-intense industries. We find that novelties introduced in firms’ textual filings help explain future sales growth, market performance, and future net income beyond historical accounting numbers. We find that not only R&D investments or patenting behavior but also SGA expenses related to intangible capital explain the variation in our text-based innovation measure. The study contributes to the accounting literature by showing the usefulness of textual disclosures in assessing a firm’s degree of innovation (intangible capital) beyond accounting numbers. Our study has implications for the critiques around boilerplate disclosures and contributes to the long-standing debate regarding the recognition of intangibles in financial statements. "
+abstract: "In this study, we examine whether firms disclose their innovative qualities through their textual filings and, if so, whether these disclosures may help understand the intangible capital of a firm that is generally not recognized in financial statements. Using the introduction of novelties to firms’ business descriptions in their 10-K filings, we develop a novel text-based innovation measure, which is particularly appealing for firms operating in non-R&D industries that offer innovative products and services. Our innovation measure captures not only firms’ product and service innovations but also innovations in business models or organizational methods, which are not captured by conventional innovation proxies. We find that novelties introduced in firms' textual filings help explain future sales growth, operating profitability, and capital market performance beyond historical accounting numbers. We find that not only R&D investments but also SGA expenses related to intangible capital explain the variation in our text-based innovation measure. Our study extends the earlier work showing the usefulness of textual disclosures in terms of assessing a firm's degree of innovation (intangible capital) and contributes to the long-standing debate regarding the recognition of intangibles in financial statements."
 slides: ""
 url_pdf: ""
 # publication types:
@@ -21,7 +21,7 @@ authors:
   - admin
   - Philip Joos
 author_notes:
-  - Tilburg University
+  - Rotterdam School of Management
   - Tilburg University
 publication: ""
 summary: ""
