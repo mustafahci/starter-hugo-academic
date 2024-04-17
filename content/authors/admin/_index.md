@@ -1,7 +1,7 @@
 ---
 title: Mustafa Ahçı
 role: Assistant Professor of Accounting
-avatar_filename: avatar2.png
+avatar_filename: profile resize.jpg
 bio: My research interests include corporate disclosures, corporate innovation, capital markets.
 interests:
   - Corporate Disclosures
