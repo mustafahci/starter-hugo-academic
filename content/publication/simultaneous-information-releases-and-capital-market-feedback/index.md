@@ -34,7 +34,7 @@ authors:
   - Tim Martens
   - Christoph J. Sextroh
 author_notes:
-  - Tilburg University
+  - Rotterdam School of Management
   - University of Bocconi
   - Tilburg University
 publication: "[**SSRN (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4009199)"
