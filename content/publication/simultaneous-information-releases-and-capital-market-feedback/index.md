@@ -64,6 +64,6 @@ url_code: ""
 ---
 
 {{% callout note %}}
-The pdf version of the paper can be found in the SSRN link above.
+The full version of the paper can be accessed using the SSRN link above.
 {{% /callout %}}
 
