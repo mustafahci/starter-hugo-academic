@@ -33,5 +33,5 @@ url_code: ""
 ---
 
 {{% callout note %}}
-The pdf of the paper is available upon request from the author by clicking the mail icon below.
+The full version of the paper can be accessed using the SSRN link above.
 {{% /callout %}}
