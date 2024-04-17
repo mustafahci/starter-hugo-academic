@@ -9,7 +9,7 @@ authors:
   - admin
 author_notes:
   - Rotterdam School of Management
-publication: ""
+publication: "[**SSRN (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4792479)"
 summary: ""
 url_dataset: ""
 url_project: ""
