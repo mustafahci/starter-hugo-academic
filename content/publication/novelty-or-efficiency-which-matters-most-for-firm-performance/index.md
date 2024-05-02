@@ -1,5 +1,5 @@
 ---
-abstract: "In this study, we examine whether firms disclose their innovative qualities through their textual filings and, if so, whether these disclosures may help understand the intangible capital of a firm that is generally not recognized in financial statements. Using the introduction of novelties to firms’ business descriptions in their 10-K filings, we develop a novel text-based innovation measure, which is particularly appealing for firms operating in non-R&D industries that offer innovative products and services. Our innovation measure captures not only firms’ product and service innovations but also innovations in business models or organizational methods, which are not captured by conventional innovation proxies. We find that novelties introduced in firms' textual filings help explain future sales growth, operating profitability, and capital market performance beyond historical accounting numbers. We find that not only R&D investments but also SGA expenses related to intangible capital explain the variation in our text-based innovation measure. Our study extends the earlier work showing the usefulness of textual disclosures in terms of assessing a firm's degree of innovation (intangible capital) and contributes to the long-standing debate regarding the recognition of intangibles in financial statements."
+abstract: "In this study, we investigate whether firms’ content-rich textual filings can help us understand their level of intangible capital and innovation that is generally not recognized in financial statements. Using novel terms introduced in firms’ 10-K business descriptions, we develop a text-based innovation measure that is also applicable to firms in non-R&D industries. The measure captures not only product and service innovations but also innovations in business models or organizational methods, typically not captured by conventional innovation proxies. We find that these novelties help explain future sales growth, operating profitability, and capital market performance beyond accounting numbers. We show that our measure correlates with R&D investments and SGA expenses related to intangible capital. Our study extends the earlier work showing the usefulness of textual disclosures in terms of assessing a firm's degree of innovation and contributes to the long-standing debate regarding the recognition of intangibles in financial statements."
 slides: ""
 url_pdf: ""
 # publication types:
@@ -26,11 +26,11 @@ author_notes:
 publication: ""
 summary: ""
 url_dataset: ""
-url_project: ""
+url_project: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797745"
 publication_short: "*Working Paper*"
 url_source: ""
 url_video: ""
-title: Novelty or Efficiency? Which Matters Most for Firm Performance
+title: Text-Based Innovation Measure and Firm Performance
 doi: ""
 featured: false
 tags: []
@@ -41,10 +41,10 @@ image:
   preview_only: false
 date: 2019-09-15T11:14:41.407Z
 url_slides: ""
-publishDate: 2022-07-14T00:00:00.000Z
+publishDate: 2024-04-26T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
 {{% callout note %}}
-The pdf of the paper is available upon request from the author by clicking the mail icon below.
+The previous version of the paper is circulated as "Novelty or Efficiency? Which Matters Most for Firm Performance?". 
 {{% /callout %}}
