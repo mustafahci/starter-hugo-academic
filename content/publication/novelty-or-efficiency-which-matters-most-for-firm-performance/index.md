@@ -23,7 +23,7 @@ authors:
 author_notes:
   - Rotterdam School of Management
   - Tilburg University
-publication: ""[**SSRN (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797745)""
+publication: "[**SSRN (link)**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4797745)"
 summary: ""
 url_dataset: ""
 url_project: ""
